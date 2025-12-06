@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "未来の僕らは知ってるよ",
+  "base_artist": "Aqours",
+  "createdAt": "2025-12-06T04:49:09.304230Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未来の僕らは知ってるよ - 【TVアニメ2期オープニング主題歌 (TVサイズ)】",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/01_未来の僕らは知ってるよ_-_【TVアニメ2期オープニング主題歌_(TVサイズ)】_Aqours.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "未来の僕らは知ってるよ - 松浦果南 Solo Ver.",
+      "artist": "松浦果南 (CV.諏訪ななか) from Aqours",
+      "has_synced": false,
+      "path": "select/02_未来の僕らは知ってるよ_-_松浦果南_Solo_Ver._松浦果南_(CV.諏訪ななか)_from_Aqours.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "未来の僕らは知ってるよ (松浦果南 Solo Ver.)",
+      "artist": "松浦果南(CV.諏訪ななか)",
+      "has_synced": true,
+      "path": "select/03_未来の僕らは知ってるよ_(松浦果南_Solo_Ver.)_松浦果南(CV.諏訪ななか).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "未来の僕らは知ってるよ - 高海千歌 Solo Ver.",
+      "artist": "高海千歌 (CV.伊波杏樹) from Aqours",
+      "has_synced": true,
+      "path": "select/04_未来の僕らは知ってるよ_-_高海千歌_Solo_Ver._高海千歌_(CV.伊波杏樹)_from_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "未来の僕らは知ってるよ (高海千歌 Solo Ver.)",
+      "artist": "高海千歌(CV.伊波杏樹) from Aqours",
+      "has_synced": true,
+      "path": "select/05_未来の僕らは知ってるよ_(高海千歌_Solo_Ver.)_高海千歌(CV.伊波杏樹)_from_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "未来の僕らは知ってるよ (高海千歌 Solo Ver.)",
+      "artist": "高海千歌 (CV.伊波杏樹)",
+      "has_synced": true,
+      "path": "select/06_未来の僕らは知ってるよ_(高海千歌_Solo_Ver.)_高海千歌_(CV.伊波杏樹).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "未来の僕らは知ってるよ【TVアニメ2期オープニング主題歌 (TVサイズ)】",
+      "artist": "加藤達也",
+      "has_synced": false,
+      "path": "select/07_未来の僕らは知ってるよ【TVアニメ2期オープニング主題歌_(TVサイズ)】_加藤達也.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "未来の僕らは知ってるよ [TVアニメ2期オープニング主題 (TVサイズ)]",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/08_未来の僕らは知ってるよ_[TVアニメ2期オープニング主題_(TVサイズ)]_Aqours.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "未来の僕らは知ってるよ (高海千歌 Solo Ver.)",
+      "artist": "高海千歌(CV.伊波杏樹) from Aqours",
+      "has_synced": true,
+      "path": "select/09_未来の僕らは知ってるよ_(高海千歌_Solo_Ver.)_高海千歌(CV.伊波杏樹)_from_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "未来の僕らは知ってるよ (松浦果南 Solo Ver.)",
+      "artist": "松浦果南 (CV.諏訪ななか) from Aqours",
+      "has_synced": false,
+      "path": "select/10_未来の僕らは知ってるよ_(松浦果南_Solo_Ver.)_松浦果南_(CV.諏訪ななか)_from_Aqours.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来の僕らは知ってるよ",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/pl_01_未来の僕らは知ってるよ_Aqours.txt"
+    }
+  ]
+}
